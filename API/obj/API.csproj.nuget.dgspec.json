@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Restore\\Restore\\API\\API.csproj": {}
+    "D:\\Projects\\Restore\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Restore\\Restore\\API\\API.csproj": {
+    "D:\\Projects\\Restore\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Restore\\Restore\\API\\API.csproj",
+        "projectUniqueName": "D:\\Projects\\Restore\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Restore\\Restore\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\shrij\\.nuget\\packages\\",
-        "outputPath": "D:\\Restore\\Restore\\API\\obj\\",
+        "projectPath": "D:\\Projects\\Restore\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\shrijal.byanjankar\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Restore\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shrij\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shrijal.byanjankar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
